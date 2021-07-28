@@ -1,0 +1,17 @@
+header>div {
+    background-color: #264653;
+}
+
+
+.button {
+    background: #E76F51;
+}
+
+.c-text {
+    color:#E76F51;
+    font-weight: 600;
+}
+
+.gray {
+    filter: grayscale(100%);
+}
