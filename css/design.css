@@ -15,3 +15,31 @@ header>div {
 .gray {
     filter: grayscale(100%);
 }
+
+.feature {
+    background-color: rgba(183, 181, 247, 0.801);
+}
+
+.offer {
+    background-color: lightblue;
+}
+.part {
+    background-color: rgb(162, 236, 236);
+}
+.clients{
+    background-color: rgb(169, 248, 180);
+}
+.rating{
+    display: flex;
+    justify-content: center;
+    
+}
+.icon{
+    width: 20px;
+    background:E77C40;
+}
+
+.faq {
+    font-family: 'Inter', sans-serif;
+    background-color: palegreen;
+}
