@@ -16,19 +16,24 @@ header>div {
     filter: grayscale(100%);
 }
 
-.feature {
+/* .feature {
     background-color: rgba(183, 181, 247, 0.801);
+} */
+
+/* .offer {
+    background-color: lightblue;
+} */
+.offer h1 {
+    color:red;
+    text-decoration:underline;
 }
 
-.offer {
-    background-color: lightblue;
-}
-.part {
+/* .part {
     background-color: rgb(162, 236, 236);
-}
-.clients{
+} */
+/* .clients{
     background-color: rgb(169, 248, 180);
-}
+} */
 .rating{
     display: flex;
     justify-content: center;
@@ -36,10 +41,9 @@ header>div {
 }
 .icon{
     width: 20px;
-    background:E77C40;
 }
 
 .faq {
     font-family: 'Inter', sans-serif;
-    background-color: palegreen;
+    /* background-color: palegreen; */
 }
