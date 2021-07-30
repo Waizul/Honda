@@ -47,3 +47,7 @@ header>div {
     font-family: 'Inter', sans-serif;
     /* background-color: palegreen; */
 }
+.fa-star{
+    color:rgb(231, 124, 64);
+    width:20px;
+}
